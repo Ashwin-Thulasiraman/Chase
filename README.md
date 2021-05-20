@@ -1,2 +1,2 @@
 # Chase
-this is my first repository
+this is my first read me file.
